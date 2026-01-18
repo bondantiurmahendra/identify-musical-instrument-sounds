@@ -75,8 +75,15 @@ cd klasifikasi-instrumen-musik
 ### 2. Install Dependensi
 pip install streamlit librosa tensorflow scikit-learn numpy
 
-3. Jalankan Streamlit
+### 3. Jalankan Streamlit
 streamlit run app.py
 http://localhost:8501
+
+---
+
+## Identitas Mahasiswa
+ - Nama: Bondan Tiur Mahendra
+ - NIM: 202211420067
+
 
 
